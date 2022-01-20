@@ -19,13 +19,13 @@ To see an example usage of the library, check out [`ExampleClone`](src/ExampleCl
 To install with [DappTools](https://github.com/dapphub/dapptools):
 
 ```
-dapp install wighawag/clones-with-immutable-args
+dapp install ZeframLou/clones-with-immutable-args
 ```
 
 To install with [Foundry](https://github.com/gakonst/foundry):
 
 ```
-forge install wighawag/clones-with-immutable-args
+forge install ZeframLou/clones-with-immutable-args
 ```
 
 ## Local development
